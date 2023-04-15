@@ -1,5 +1,7 @@
 # vuetify2-tut-todo
 
+## Output created for studying Vuetify 2 from the Net Ninja YT Channel
+
 ## Project setup
 ```
 npm install
